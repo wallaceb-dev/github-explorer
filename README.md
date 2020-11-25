@@ -1,10 +1,10 @@
-<h1 align="center">Github Explorer</h1>
+<h1>Github Explorer</h1>
 
-<p align="center">
+<p>
   <i>React application developed using Typescript/JavaScript.</i>
   <br>
 </p>
 
-<h2 align="center">Demo</h2>
+<h2>Demo</h2>
 
-[![Demo CountPages alpha](https://github.com/TxrWall/github-explorer/blob/main/gif_app.gif?raw=true)](https://youtu.be/LWVMMoovMOg)
+[![Github Explorer](https://github.com/TxrWall/github-explorer/blob/main/gif_app.gif?raw=true)](https://youtu.be/LWVMMoovMOg)
