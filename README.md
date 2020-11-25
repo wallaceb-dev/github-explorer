@@ -1,1 +1,1 @@
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/LWVMMoovMOg)
+[![Demo CountPages alpha](https://github.com/TxrWall/github-explorer/blob/main/gif_app.gif?raw=true)](https://youtu.be/LWVMMoovMOg)
