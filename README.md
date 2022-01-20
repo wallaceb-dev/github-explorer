@@ -12,6 +12,6 @@
   <br>
 </p>
 
-[![Blog](https://github.com/wallaceb-dev/github-explorer/blob/master/demo.gif?raw=true)]
+[![App](https://github.com/wallaceb-dev/github-explorer/blob/main/demo.gif)]
 
 > "Simplicity is the ultimate sophistication", Leonardo Da Vinci
